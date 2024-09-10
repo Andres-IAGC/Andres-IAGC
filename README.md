@@ -15,9 +15,6 @@ Desarollo aplicaciones en
 --tambien desarrollo paginas web
 
 
--  Sabias: Soy añumno del TEC !
-
-
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
